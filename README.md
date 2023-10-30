@@ -9,4 +9,4 @@ I never thought I will be writing a READme.md for myself, but here I am. So if y
 <div style="margin-top: 200px;">
     <img align="right" width="400" src="./photo_2023-10-13_17-47-31.jpg" />
 </div>
-I am **Umidjon Khodjamov, Computer Engineering student and C#/.NET Programmer**
+I am <strong>Umidjon Khodjamov, Computer Engineering student and C#/.NET Programmer</strong>
