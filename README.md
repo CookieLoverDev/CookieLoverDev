@@ -30,3 +30,6 @@ I am second year computer engineering student at Vistula University, based in Po
 [![My Skills](https://skillicons.dev/icons?i=github)]((https://github.com/CookieLoverDev))
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/umido_khodzima/)
 
+<strong>My GitHub stats✨:</strong>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CookieLoverDev)](https://github.com/anuraghazra/github-readme-stats)
