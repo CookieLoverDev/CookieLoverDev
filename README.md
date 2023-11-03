@@ -25,7 +25,6 @@ I am second year computer engineering student at Vistula University, based in Po
 [![My Skills](https://skillicons.dev/icons?i=github,git,idea)](https://skillicons.dev)
 
 <strong>You can find and contact me on:</strong>
-
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umidjonkhodjamov/)
 [![My Skills](https://skillicons.dev/icons?i=github)]((https://github.com/CookieLoverDev))
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/umido_khodzima/)
