@@ -19,9 +19,9 @@ I am third year computer engineering student at Vistula University, based in Pol
 
 <strong>Languages and Programs I work with:</strong>
 
-[![My Skills](https://skillicons.dev/icons?i=cs,python,cpp,dotnet)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,unity,unreal)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,idea,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,python,cpp,dotnet,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,unity,unreal,git,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode)](https://skillicons.dev)
 
 <strong>You can find and contact me on:</strong>
 
