@@ -9,12 +9,11 @@ I never thought I will be writing a READme.md for myself, but here I am. So if y
 <div style="margin-top: 200px;">
     <img align="right" width="400" src="./photo_2023-10-13_17-47-31.jpg" />
 </div>
-<h2>I am a Computer Engineering student, C#/.NET Programmer and big Video Games lover</h2>
-I am second year computer engineering student at Vistula University, based in Poland, Warsaw. My direction is Game Development and you can check some of them in my repos. Except that, you can find there projects in python, C# WinForms and etcs. 
+<h2>I am a Computer Engineering student, C#/.NET/Python Developer and big Video Games lover</h2>
+I am third year computer engineering student at Vistula University, based in Poland, Warsaw. My specialization is Cybersecurity and Netwroking. In my repos, you can various projects, I would like to hear your opinion on them!
  
 - 👾I am a comptuer games enthusiast and love making my own games
-- 💻I have big passion to learn everything about programming. Currently learning Unity, Unreal, C++ and Java
-- 🎮Right now working on 2.5D Top-Down Action-RPG on Unity for University project with my team
+- 💻I have big passion to learn everything about programming. Currently learning C#, Python and Java
 - 🙌Would love to colloborate on projects
 - 💼Currently looking for openning position as Developer
 
