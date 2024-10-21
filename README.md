@@ -19,8 +19,8 @@ I am second year computer engineering student at Vistula University, based in Po
 - 💼Currently looking for openning position as Developer
 
 <strong>Languages and Programs I work with:</strong>
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,java,unity,unreal,visualstudio,vscode)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,dotnet,java,unity,unreal,visualstudio,vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=github,git,idea)](https://skillicons.dev)
 
 <strong>You can find and contact me on:</strong>
